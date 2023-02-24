@@ -12,6 +12,7 @@
         }
     ?>
     <form method="POST" action="recebedados.php">
+    <h1>aula frank</h1>
         Nome:<input type="text" name="nome"> </br>
         Idade:<input type="number" name="idade"> </br>
         Sexo:
